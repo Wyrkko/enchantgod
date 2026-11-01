@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["NN", "NT", " R"],
+  "key": {
+    "N": "minecraft:netherite_ingot",
+    "T": "minecraft:nether_star",
+    "R": "minecraft:blaze_rod"
+  },
+  "result": { "id": "godweapons:godslayer", "count": 1 }
+}

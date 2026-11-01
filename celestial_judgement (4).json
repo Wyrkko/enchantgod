@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": ["TNT", " N ", " R "],
+  "key": {
+    "T": "minecraft:nether_star",
+    "N": "minecraft:netherite_ingot",
+    "R": "minecraft:blaze_rod"
+  },
+  "result": { "id": "godweapons:celestial_judgement", "count": 1 }
+}

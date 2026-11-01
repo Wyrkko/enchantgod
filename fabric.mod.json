@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "godweapons",
+  "version": "${version}",
+  "name": "God Weapons",
+  "description": "Three absurdly overpowered weapons: Void Reaper, Godslayer and Celestial Judgement.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.godweapons.GodWeaponsMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
